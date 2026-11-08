@@ -1,0 +1,47 @@
+[functions.create-client]
+verify_jwt = true
+
+[functions.vault]
+verify_jwt = true
+
+[functions.execute-trade]
+verify_jwt = true
+
+[functions.monitor-positions]
+verify_jwt = true
+
+[functions.sync-copy-trades]
+verify_jwt = false
+
+[functions.analyze-market-sentiment]
+verify_jwt = false
+
+[functions.create-sub-admin]
+verify_jwt = true
+
+[functions.trigger-panic-sell]
+verify_jwt = true
+
+[functions.strategy-runner]
+verify_jwt = false
+
+[functions.close-single-position]
+verify_jwt = true
+
+[functions.sync-wallet]
+verify_jwt = true
+
+[functions.sync-broker-pnl]
+verify_jwt = true
+
+[functions.binance-proxy]
+verify_jwt = false
+
+[functions.daily-license-check]
+verify_jwt = false
+
+[functions.sync-exchange-positions]
+verify_jwt = false
+
+[functions.coindcx-ws-auth]
+verify_jwt = true
