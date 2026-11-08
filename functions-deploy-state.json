@@ -1,0 +1,69 @@
+{
+  "projectId": "71953154",
+  "functions": {
+    "analyze-market-sentiment": {
+      "hasChanged": false,
+      "hash": "3b15bc6830e1849ad46d6cf112bc673a7fd6ceed38fdca198a49c4fe2ec2036f61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "binance-proxy": {
+      "hasChanged": false,
+      "hash": "9ebdcfe6d72b6da7f636c0985fb3cde3d94129ad7db57c8bf27ea5ca3794640561b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "close-single-position": {
+      "hasChanged": false,
+      "hash": "d9165cfdc103ff79b16696dd38f89fea0718184145ec3b232d13bf7c3c70beed61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "coindcx-ws-auth": {
+      "hasChanged": false,
+      "hash": "03aa056ce9ba13783048d8bc4510df788be604e1c0a4ebaeea0a53f4891cacf761b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "create-client": {
+      "hasChanged": false,
+      "hash": "32a8d9c819c46cbc8fb716f7d5dc294a706b89d6a9d8aba147b7ffa15f2e021061b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "create-sub-admin": {
+      "hasChanged": false,
+      "hash": "eee8c7fc1c8f7eb46e916700bf58ebd5c22c45f827a65d8289546f3ae3b1ef9b61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "daily-license-check": {
+      "hasChanged": false,
+      "hash": "ae2bb7e71c02824dc4e2d8208aa2efe4858fd9fc9bf0b93492f4879a6341238461b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "execute-trade": {
+      "hasChanged": false,
+      "hash": "c6a7761dea0c0a605abc084ca0d426b9bf2493fe687bcc86b5a3a62794b7010361b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "monitor-positions": {
+      "hasChanged": false,
+      "hash": "b6f0631b886ced95a89821fbf9a7408cbafc0ae70b18d12c765118e9f967132d61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "strategy-runner": {
+      "hasChanged": false,
+      "hash": "bf09828af99a062ab6e7c85a756f4585bc42d87b236d6fd13a0be27a69156f6161b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "sync-broker-pnl": {
+      "hasChanged": false,
+      "hash": "0a712133b69c8dce655d3474e6637c187f7675a5b6113e49ab9d12f903b9bee061b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "sync-copy-trades": {
+      "hasChanged": false,
+      "hash": "37791b56b7a23b13174ac09b4f21e910b9b1db6848ccc85f3f7ac39e82af1d1261b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "sync-exchange-positions": {
+      "hasChanged": false,
+      "hash": "c8d751ced0c2b7bf1de2060daf6a1a80a0d8ddc75d376c0deaaeb479f526bfe861b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "sync-wallet": {
+      "hasChanged": false,
+      "hash": "340ab22ad5e2edc7cec8e0cdfe098207719832660b632889814c27e4db00d3b461b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "trigger-panic-sell": {
+      "hasChanged": false,
+      "hash": "4c7ac6fb63d57cb860fd02f3b9e08015b04730926a20e646acb790a4d3bf555d61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    },
+    "vault": {
+      "hasChanged": false,
+      "hash": "7b2c6122e5def9338fc417f968cc652ad30d0953ca766d2891b21639c769f66e61b34716576eca7f6e4aae258da738e8b140000da25c7382e964a164ed2250f1"
+    }
+  }
+}
